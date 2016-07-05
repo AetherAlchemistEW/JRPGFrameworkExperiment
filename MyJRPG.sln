@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJRPG.CSharp", "MyJRPG.CSharp.csproj", "{AD07508B-C4AC-C57E-8E6F-B57A45D6FC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJRPG.CSharp.Editor", "MyJRPG.CSharp.Editor.csproj", "{49CB2AAD-7B13-1BAA-82A1-22F68AFAF0FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD07508B-C4AC-C57E-8E6F-B57A45D6FC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD07508B-C4AC-C57E-8E6F-B57A45D6FC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD07508B-C4AC-C57E-8E6F-B57A45D6FC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD07508B-C4AC-C57E-8E6F-B57A45D6FC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CB2AAD-7B13-1BAA-82A1-22F68AFAF0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CB2AAD-7B13-1BAA-82A1-22F68AFAF0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CB2AAD-7B13-1BAA-82A1-22F68AFAF0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CB2AAD-7B13-1BAA-82A1-22F68AFAF0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
